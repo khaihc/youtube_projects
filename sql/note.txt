@@ -1,0 +1,8 @@
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456';
+
+[{\"id\": 1, \"name\": \"Black Coffee\", \"price\": 99, \"total\": 99, \"category\": \"Coffee\", \"quantity\": \"1\"}]
+
+
+[{\"id\": 18, \"name\": \"Doppio Coffee\", \"price\": 120, \"total\": 120, \"category\": \"Coffee\", \"quantity\": \"1\"},{\"id\": 5, \"name\": \"Chocolate Frosted Doughnut\", \"price\": 159, \"total\": 159, \"category\": \"Doughnut\", \"quantity\": \"1\"}]
+C:\Users\ad\Documents\dumps\Dump20220827.sql
+
